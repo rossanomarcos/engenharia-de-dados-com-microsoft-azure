@@ -6,7 +6,7 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 * Curso: https://howedu.com.br/cohort/engenharia-de-dados-com-microsoft-azure/
 * *Rossano Marcos* https://www.linkedin.com/in/rossanomarcos/ (Instrutor)
 ---
-# Engenharia de Dados com Azure - Aula 1
+## Engenharia de Dados com Azure - Aula 1
 
 * Azure Free Credit
 https://azure.microsoft.com/en-us/free/
@@ -52,7 +52,7 @@ https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-con
 
 ----
 
-# Engenharia de Dados com Azure - Aula 2
+## Engenharia de Dados com Azure - Aula 2
 
 * What is Azure Data Factory?
 https://docs.microsoft.com/en-us/azure/data-factory/introduction
@@ -73,7 +73,7 @@ https://docs.microsoft.com/en-us/azure/data-factory/data-flow-source
 https://parquet.apache.org/
 
 
-# Engenharia de Dados com Azure - Aula 3
+## Engenharia de Dados com Azure - Aula 3
 
 ## Azure Pipelines e Segurança de dados
 * Contained Database Users - Making Your Database Portable
@@ -115,7 +115,7 @@ https://docs.microsoft.com/en-us/azure/data-factory/control-flow-expression-lang
 https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions
 
 
-# Engenharia de Dados com Azure - Aula 4
+## Engenharia de Dados com Azure - Aula 4
 
 ## Event Triggers pipelines
 * Create a trigger that runs a pipeline in response to a storage event
@@ -151,7 +151,7 @@ https://azure.microsoft.com/en-us/pricing/tco/calculator/
 https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets
 
 
-# Engenharia de Dados com Azure - Aula 5
+## Engenharia de Dados com Azure - Aula 5
 
 ## Azure Synase Analytics  - Parte I- Serverless SQL Pool
 
@@ -248,7 +248,7 @@ https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studi
 ----
 
 
-# Engenharia de Dados com Azure - Aula 6
+## Engenharia de Dados com Azure - Aula 6
 
 ### SQL Spark Pool 
 ---
@@ -314,7 +314,7 @@ https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax
 https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700
 
 ----
-# Engenharia de Dados com Azure - Downloads
+## Engenharia de Dados com Azure - Downloads
 
 ## Complete download list:
 * Download Storage Explorer:
