@@ -22,9 +22,9 @@
 
 * [Extra: The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/#the-hitchhiker39s-guide-to-the-data-lake)
 
-----
+---
 ### *Pré-requisito aula:*
-----
+---
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 * [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
@@ -35,7 +35,7 @@
 
 * [SQL DB Samples](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
 
-----
+---
 
 ## Engenharia de Dados com Azure - Aula 2
 
@@ -174,9 +174,9 @@
 * [Extra: Online Parquet File Reader](https://www.parquet-viewer.com/)
 * *Importante:* [Solução para mensagem de erro de registro no Azure Synapse workspace](https://docs.microsoft.com/en-us/answers/questions/739391/permission-on-subscription-when-creating-azure-syn.html)
 
-----
+---
 ### *Pré-requisito aula:*
-----
+---
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 ----
 
@@ -191,7 +191,7 @@
 
 * [Analyze with Apache Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark)
 
------
+---
 #### Dedicated SQL Pool
 ---
 * [What is dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytics?](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is)
@@ -206,7 +206,7 @@
 
 * [Statistics in Synapse SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics)
 
-------
+---
 #### Design Star Schema
 
 * [Design and implement a star schema](https://docs.microsoft.com/en-us/learn/modules/design-multidimensional-schema-to-optimize-analytical-workloads/2-design-star-schema)
@@ -223,12 +223,12 @@
 
 * [Cheatsheet for dedicated SQL pool (formerly SQL DW) - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet)
 
-----
+---
 * [Extra: Transact-SQL Syntax Conventions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql)
 
 * [Extra: The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
 
-----
+---
 ## Engenharia de Dados com Azure - Downloads
 
 ### Complete download list:
