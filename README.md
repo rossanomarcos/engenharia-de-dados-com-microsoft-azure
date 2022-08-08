@@ -1,8 +1,6 @@
-# engenharia-de-dados-com-microsoft-azure
-engenharia-de-dados-com-microsoft-azure @howbootcamp
-
-
-## Bootcamp Engenharia de Dados com Microsoft Azure - versão Julho 2022
+# Bootcamp Engenharia de Dados com Microsoft Azure
+### Versão Julho 2022
+---
 * [Curso Howbootcamp](https://howedu.com.br/cohort/engenharia-de-dados-com-microsoft-azure/)
 * [Rossano Marcos (Linkedin)](https://www.linkedin.com/in/rossanomarcos/)
 ---
