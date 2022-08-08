@@ -23,7 +23,7 @@
 * [Extra: The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/#the-hitchhiker39s-guide-to-the-data-lake)
 
 ----
-#### *Pré-requisito aula:*
+### *Pré-requisito aula:*
 ----
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
