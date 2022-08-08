@@ -25,8 +25,7 @@
 * [WideWorldImporters: Data Dictionary](https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/home.html)
 * [SQL DB Samples](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
 
----
-
+----
 ## Engenharia de Dados com Azure - Aula 2
 
 * [What is Azure Data Factory?](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
@@ -48,16 +47,13 @@
 * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
 * [Azure Data Factory - Security considerations for data movement](https://docs.microsoft.com/en-us/azure/data-factory/v1/data-factory-data-movement-security-considerations)
 
-
 ### Azure Data Factory Activities
-
 * [Get Metadata activity in Azure Data Factory or Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-get-metadata-activity)
 * [Filter activity in Azure Data Factory and Synapse Analytics pipelines](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-filter-activity)
 * [ForEach activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity)
 
 ### Azure Data Factory Expressions and Functions
 *  [Expressions and functions in Azure Data Factory and Azure Synapse Analytic](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#expressions)
-
 * [How to use parameters, expressions and functions in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions)
 
 ----
@@ -102,7 +98,6 @@
 * [OPENJSON (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql)
 * [JSON Functions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/json-functions-transact-sql)
 
-
 #### EXTERNAL TABLES
 * [Use external tables with Synapse SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables?tabs=hadoop)
 * [CREATE DATABASE](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-database-transact-sql?view=azure-sqldw-latest&tabs=sqlpool)
@@ -118,9 +113,9 @@
 
 ---
 ### *Pré-requisito aula:*
-
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 
+----
 ## Engenharia de Dados com Azure - Aula 6
 ### Azure Synase Analytics  - Parte II - SQL Sparl Pool e Dedicated SQL Pool
 
@@ -149,7 +144,7 @@
 * [Cheatsheet for dedicated SQL pool (formerly SQL DW) - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet)
 * [Extra: Transact-SQL Syntax Conventions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql)
 * [Extra: The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
----
+----
 ## Engenharia de Dados com Azure - Downloads
 
 ### Complete download list:
