@@ -43,6 +43,8 @@
 
 * [Azure Data Factory documentation](https://docs.microsoft.com/en-us/azure/data-factory/)
 
+* [Linked Servers (Database Engine)](https://docs.microsoft.com/en-us/sql/relational-databases/linked-servers/linked-servers-database-engine)
+
 * [Mapping data flows in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview)
 
 * [Copy activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/copy-activity-overview)
