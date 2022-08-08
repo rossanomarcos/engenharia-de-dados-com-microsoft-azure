@@ -218,10 +218,6 @@
 
 * [Cheatsheet for dedicated SQL pool (formerly SQL DW) - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet)
 
-* [Design guidance for replicated tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables#convert-existing-round-robin-tables-to-replicated-tables)
-
-* [Design guidance for replicated tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables#what-is-a-replicated-table)
-
 ----
 * [Extra: Transact-SQL Syntax Conventions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql)
 
