@@ -182,6 +182,7 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 
 
 ## Engenharia de Dados com Azure - Aula 6
+## Azure Synase Analytics  - Parte II - SQL Sparl Pool e Dedicated SQL Pool
 
 ### SQL Spark Pool 
 ---
