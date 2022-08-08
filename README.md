@@ -22,7 +22,6 @@
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 * [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 * [WideWorldImportersDW Installation and configuration](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
-
 * [WideWorldImporters: Data Dictionary](https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/home.html)
 * [SQL DB Samples](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
 
@@ -43,7 +42,6 @@
 
 ### Azure Pipelines e Segurança de dados
 * [Contained Database Users - Making Your Database Portable](https://docs.microsoft.com/en-us/sql/relational-databases/security/contained-database-users-making-your-database-portable?view=sql-server-ver15#contained-database-user-model)
-
 * [Use Azure Key Vault to manage your access keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#use-azure-key-vault-to-manage-your-access-keys)
 * [What is Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
 * [What are managed identities for Azure resources?](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
@@ -68,17 +66,13 @@
 ### Event Triggers pipelines
 * [Create a trigger that runs a pipeline in response to a storage event](https://docs.microsoft.com/en-us/azure/data-factory/how-to-create-event-trigger?tabs=data-factory)
 
-
 ### Azure Data Factory Activities
-
 * [Lookup activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-lookup-activity)
 * [ForEach activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity)
 * [Extra: What is change data capture (CDC)?](https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server)
 
-
 ### Cost Management on Azure
 * [Data Pipeline pricing](https://azure.microsoft.com/en-us/pricing/details/data-factory/data-pipeline/)
-
 * [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 * [Reduce service costs by using Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations)
 * [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
@@ -88,13 +82,11 @@
 ## Engenharia de Dados com Azure - Aula 5
 
 ### Azure Synase Analytics  - Parte I- Serverless SQL Pool
-
 * [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
 * [What is Azure Synapse Analytics?](https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is)
 * [Azure Synapse SQL architecture](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/overview-architecture)
 
 #### Serverless SQL Pool
-
 * [Serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview)
 * [Cost management for serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed)
 
@@ -128,22 +120,17 @@
 ### *Pré-requisito aula:*
 
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
-----
 
 ## Engenharia de Dados com Azure - Aula 6
 ### Azure Synase Analytics  - Parte II - SQL Sparl Pool e Dedicated SQL Pool
 
 #### SQL Spark Pool 
----
 * [What is Apache Spark?](https://docs.microsoft.com/en-us/dotnet/spark/what-is-spark)
 * [Spark.Apache.org](https://spark.apache.org/)
 * [Analyze with Apache Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark)
 
----
 #### Dedicated SQL Pool
----
 * [What is dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytics?](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is)
-
 * [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal)
 * [Modern data warehouse for small and medium business](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data/small-medium-data-warehouse)
 * [COPY (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/copy-into-transact-sql?view=azure-sqldw-latest)
@@ -152,22 +139,16 @@
 
 
 #### Design Star Schema
-
 * [Design and implement a star schema](https://docs.microsoft.com/en-us/learn/modules/design-multidimensional-schema-to-optimize-analytical-workloads/2-design-star-schema)
 
 #### Designing tables in Azure Synapse Analytics
-
 * [Designing tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-overview)
 * [Distributed tables design guidance - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute)
 * [Design guidance for replicated tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables)
 * [Round robin tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute#round-robin-distributed)
 * [Cheatsheet for dedicated SQL pool (formerly SQL DW) - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet)
-
----
 * [Extra: Transact-SQL Syntax Conventions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql)
-
 * [Extra: The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
-
 ---
 ## Engenharia de Dados com Azure - Downloads
 
