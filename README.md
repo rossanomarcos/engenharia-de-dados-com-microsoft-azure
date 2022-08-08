@@ -1,38 +1,29 @@
 # Bootcamp Engenharia de Dados com Microsoft Azure
 ### Versão Julho 2022
----
+
 * [Curso Howbootcamp](https://howedu.com.br/cohort/engenharia-de-dados-com-microsoft-azure/)
 * [Rossano Marcos (Linkedin)](https://www.linkedin.com/in/rossanomarcos/)
----
+----
 ## Engenharia de Dados com Azure - Aula 1
 
 * [Azure Free Credit](https://azure.microsoft.com/en-us/free/)
-
 * [Azure Portal](https://portal.azure.com/)
-
 * [Azure Documentation](https://docs.microsoft.com/en-us/documentation/)
-
 * [Modern analytics architecture with Azure Databricks](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
 * [What is a resource?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management)
-
 * [Storage account overview](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json)
-
 * [Hot, Cool, and Archive access tiers for blob data](https://docs.microsoft.com/en-gb/azure/storage/blobs/access-tiers-overview?tabs=azure-portal)
-
 * [Extra: The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/#the-hitchhiker39s-guide-to-the-data-lake)
 
 ---
 ### *Pré-requisito aula:*
 ---
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
-
 * [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
-
 * [WideWorldImportersDW Installation and configuration](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
 
 * [WideWorldImporters: Data Dictionary](https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/home.html)
-
 * [SQL DB Samples](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
 
 ---
@@ -40,17 +31,11 @@
 ## Engenharia de Dados com Azure - Aula 2
 
 * [What is Azure Data Factory?](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
-
 * [Azure Data Factory documentation](https://docs.microsoft.com/en-us/azure/data-factory/)
-
 * [Linked Servers (Database Engine)](https://docs.microsoft.com/en-us/sql/relational-databases/linked-servers/linked-servers-database-engine)
-
 * [Mapping data flows in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview)
-
 * [Copy activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/copy-activity-overview)
-
 * [Source transformation in mapping data flow](https://docs.microsoft.com/en-us/azure/data-factory/data-flow-source)
-
 * [Parquet Format](https://parquet.apache.org/)
 
 ----
@@ -60,24 +45,17 @@
 * [Contained Database Users - Making Your Database Portable](https://docs.microsoft.com/en-us/sql/relational-databases/security/contained-database-users-making-your-database-portable?view=sql-server-ver15#contained-database-user-model)
 
 * [Use Azure Key Vault to manage your access keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#use-azure-key-vault-to-manage-your-access-keys)
-
 * [What is Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
-
 * [What are managed identities for Azure resources?](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
-
 * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
-
 * [Azure Data Factory - Security considerations for data movement](https://docs.microsoft.com/en-us/azure/data-factory/v1/data-factory-data-movement-security-considerations)
 
 
 ### Azure Data Factory Activities
 
 * [Get Metadata activity in Azure Data Factory or Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-get-metadata-activity)
-
 * [Filter activity in Azure Data Factory and Synapse Analytics pipelines](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-filter-activity)
-
 * [ForEach activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity)
-
 
 ### Azure Data Factory Expressions and Functions
 *  [Expressions and functions in Azure Data Factory and Azure Synapse Analytic](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#expressions)
@@ -94,9 +72,7 @@
 ### Azure Data Factory Activities
 
 * [Lookup activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-lookup-activity)
-
 * [ForEach activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity)
-
 * [Extra: What is change data capture (CDC)?](https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server)
 
 
@@ -104,11 +80,8 @@
 * [Data Pipeline pricing](https://azure.microsoft.com/en-us/pricing/details/data-factory/data-pipeline/)
 
 * [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
-
 * [Reduce service costs by using Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations)
-
 * [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
-
 * [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
 
 ----
@@ -117,66 +90,43 @@
 ### Azure Synase Analytics  - Parte I- Serverless SQL Pool
 
 * [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
-
 * [What is Azure Synapse Analytics?](https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is)
-
 * [Azure Synapse SQL architecture](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/overview-architecture)
 
 #### Serverless SQL Pool
 
 * [Serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview)
-
 * [Cost management for serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed)
 
 #### OPENROWSET
 * [OPENROWSET (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/openrowset-transact-sql)
-
 * [OLE DB](https://en.wikipedia.org/wiki/OLE_DB)
-
 * [Appendix A: Data and Service Providers](https://docs.microsoft.com/en-us/sql/ado/guide/appendixes/appendix-a-providers)
-
 * [How to use OPENROWSET using serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset)
-
 * [Query Parquet files using serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/query-parquet-files)
-
 * [Query CSV files](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/query-single-csv-file)
-
 * [Collation and Unicode support](https://docs.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support?view=sql-server-ver16)
-
 * [Query JSON files using serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/query-json-files)
-
 * [OPENJSON (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql)
-
 * [JSON Functions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/json-functions-transact-sql)
 
 
 #### EXTERNAL TABLES
 * [Use external tables with Synapse SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables?tabs=hadoop)
-
 * [CREATE DATABASE](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-database-transact-sql?view=azure-sqldw-latest&tabs=sqlpool)
-
 * [CREATE MASTER KEY (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-master-key-transact-sql?view=sql-server-ver15#remarks)
-
 * [CREATE DATABASE SCOPED CREDENTIAL (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-database-scoped-credential-transact-sql?view=azure-sqldw-latest)
-
 * [CREATE EXTERNAL DATA SOURCE (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-external-data-source-transact-sql?view=azure-sqldw-latest&preserve-view=true&tabs=serverless)
-
 * [CREATE EXTERNAL FILE FORMAT (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-external-file-format-transact-sql?view=azure-sqldw-latest&tabs=delimited)
-
 * [CREATE EXTERNAL TABLE (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-external-table-transact-sql?view=azure-sqldw-latest&tabs=serverless)
-
----
 * [T-SQL support (Stored procedures limitations)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview#t-sql-support)
-
 * [Reduced Implemenatation (Serveless SQL Pool comparison)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-stored-procedures#limitations)
-
----
 * [Extra: Online Parquet File Reader](https://www.parquet-viewer.com/)
 * *Importante:* [Solução para mensagem de erro de registro no Azure Synapse workspace](https://docs.microsoft.com/en-us/answers/questions/739391/permission-on-subscription-when-creating-azure-syn.html)
 
 ---
 ### *Pré-requisito aula:*
----
+
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 ----
 
@@ -186,9 +136,7 @@
 #### SQL Spark Pool 
 ---
 * [What is Apache Spark?](https://docs.microsoft.com/en-us/dotnet/spark/what-is-spark)
-
 * [Spark.Apache.org](https://spark.apache.org/)
-
 * [Analyze with Apache Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark)
 
 ---
@@ -197,16 +145,12 @@
 * [What is dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytics?](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is)
 
 * [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal)
-
 * [Modern data warehouse for small and medium business](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data/small-medium-data-warehouse)
-
 * [COPY (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/copy-into-transact-sql?view=azure-sqldw-latest)
-
 * [CREATE TABLE AS SELECT (CTAS)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-develop-ctas)
-
 * [Statistics in Synapse SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics)
 
----
+
 #### Design Star Schema
 
 * [Design and implement a star schema](https://docs.microsoft.com/en-us/learn/modules/design-multidimensional-schema-to-optimize-analytical-workloads/2-design-star-schema)
@@ -214,13 +158,9 @@
 #### Designing tables in Azure Synapse Analytics
 
 * [Designing tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-overview)
-
 * [Distributed tables design guidance - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute)
-
 * [Design guidance for replicated tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables)
-
 * [Round robin tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute#round-robin-distributed)
-
 * [Cheatsheet for dedicated SQL pool (formerly SQL DW) - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet)
 
 ---
@@ -233,9 +173,6 @@
 
 ### Complete download list:
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
-
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
-
 * [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-
 * [WideWorldImportersDW Installation and configuration](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure)
