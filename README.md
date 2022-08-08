@@ -79,7 +79,7 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 * [ForEach activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity)
 
 
-## Azure Data Factory Expressions and Functions](
+## Azure Data Factory Expressions and Functions
 *  [Expressions and functions in Azure Data Factory and Azure Synapse Analytic](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#expressions)
 
 * [How to use parameters, expressions and functions in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions)
