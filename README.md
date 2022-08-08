@@ -53,7 +53,7 @@
 
 * [Parquet Format](https://parquet.apache.org/)
 
-
+----
 ## Engenharia de Dados com Azure - Aula 3
 
 ### Azure Pipelines e Segurança de dados
@@ -84,7 +84,7 @@
 
 * [How to use parameters, expressions and functions in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions)
 
-
+----
 ## Engenharia de Dados com Azure - Aula 4
 
 ### Event Triggers pipelines
@@ -111,7 +111,7 @@
 
 * [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
 
-
+----
 ## Engenharia de Dados com Azure - Aula 5
 
 ### Azure Synase Analytics  - Parte I- Serverless SQL Pool
@@ -179,7 +179,6 @@
 ----
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 ----
-
 
 ## Engenharia de Dados com Azure - Aula 6
 ### Azure Synase Analytics  - Parte II - SQL Sparl Pool e Dedicated SQL Pool
