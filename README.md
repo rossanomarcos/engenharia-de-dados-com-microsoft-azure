@@ -82,7 +82,7 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 ## Azure Data Factory Expressions and Functions](
 *  [Expressions and functions in Azure Data Factory and Azure Synapse Analytic](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#expressions)
 
-* [How to use parameters, expressions and functions in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions
+* [How to use parameters, expressions and functions in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions)
 
 
 ## Engenharia de Dados com Azure - Aula 4
@@ -171,8 +171,8 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 * [Reduced Implemenatation (Serveless SQL Pool comparison)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-stored-procedures#limitations)
 
 ---
-* [Online Parquet File Reader](https://www.parquet-viewer.com/
-* [*Importante:* Solução para mensagem de erro de registro no Azure Synapse workspace](https://docs.microsoft.com/en-us/answers/questions/739391/permission-on-subscription-when-creating-azure-syn.html)
+* [Extra: Online Parquet File Reader](https://www.parquet-viewer.com/)
+* *Importante:* [Solução para mensagem de erro de registro no Azure Synapse workspace](https://docs.microsoft.com/en-us/answers/questions/739391/permission-on-subscription-when-creating-azure-syn.html)
 
 ----
 ### *Pré-requisito aula:*
