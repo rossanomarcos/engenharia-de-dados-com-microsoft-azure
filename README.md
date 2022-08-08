@@ -23,7 +23,7 @@
 * [Extra: The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/#the-hitchhiker39s-guide-to-the-data-lake)
 
 ----
-### *Pré-requisito aula:*
+#### *Pré-requisito aula:*
 ----
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
@@ -56,7 +56,7 @@
 
 ## Engenharia de Dados com Azure - Aula 3
 
-## Azure Pipelines e Segurança de dados
+### Azure Pipelines e Segurança de dados
 * [Contained Database Users - Making Your Database Portable](https://docs.microsoft.com/en-us/sql/relational-databases/security/contained-database-users-making-your-database-portable?view=sql-server-ver15#contained-database-user-model)
 
 * [Use Azure Key Vault to manage your access keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#use-azure-key-vault-to-manage-your-access-keys)
@@ -70,7 +70,7 @@
 * [Azure Data Factory - Security considerations for data movement](https://docs.microsoft.com/en-us/azure/data-factory/v1/data-factory-data-movement-security-considerations)
 
 
-## Azure Data Factory Activities
+### Azure Data Factory Activities
 
 * [Get Metadata activity in Azure Data Factory or Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-get-metadata-activity)
 
@@ -79,7 +79,7 @@
 * [ForEach activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity)
 
 
-## Azure Data Factory Expressions and Functions
+### Azure Data Factory Expressions and Functions
 *  [Expressions and functions in Azure Data Factory and Azure Synapse Analytic](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#expressions)
 
 * [How to use parameters, expressions and functions in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions)
@@ -87,11 +87,11 @@
 
 ## Engenharia de Dados com Azure - Aula 4
 
-## Event Triggers pipelines
+### Event Triggers pipelines
 * [Create a trigger that runs a pipeline in response to a storage event](https://docs.microsoft.com/en-us/azure/data-factory/how-to-create-event-trigger?tabs=data-factory)
 
 
-## Azure Data Factory Activities
+### Azure Data Factory Activities
 
 * [Lookup activity in Azure Data Factory and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-lookup-activity)
 
@@ -100,7 +100,7 @@
 * [Extra: What is change data capture (CDC)?](https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server)
 
 
-## Gerenciamento de Custo no Azure
+### Cost Management on Azure
 * [Data Pipeline pricing](https://azure.microsoft.com/en-us/pricing/details/data-factory/data-pipeline/)
 
 * [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
@@ -114,7 +114,7 @@
 
 ## Engenharia de Dados com Azure - Aula 5
 
-## Azure Synase Analytics  - Parte I- Serverless SQL Pool
+### Azure Synase Analytics  - Parte I- Serverless SQL Pool
 
 * [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
 
@@ -122,7 +122,7 @@
 
 * [Azure Synapse SQL architecture](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/overview-architecture)
 
-### Serverless SQL Pool
+#### Serverless SQL Pool
 
 * [Serverless SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview)
 
@@ -182,9 +182,9 @@
 
 
 ## Engenharia de Dados com Azure - Aula 6
-## Azure Synase Analytics  - Parte II - SQL Sparl Pool e Dedicated SQL Pool
+### Azure Synase Analytics  - Parte II - SQL Sparl Pool e Dedicated SQL Pool
 
-### SQL Spark Pool 
+#### SQL Spark Pool 
 ---
 * [What is Apache Spark?](https://docs.microsoft.com/en-us/dotnet/spark/what-is-spark)
 
@@ -193,7 +193,7 @@
 * [Analyze with Apache Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark)
 
 -----
-### Dedicated SQL Pool
+#### Dedicated SQL Pool
 ---
 * [What is dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytics?](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is)
 
@@ -208,11 +208,11 @@
 * [Statistics in Synapse SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics)
 
 ------
-### Design Star Schema
+#### Design Star Schema
 
 * [Design and implement a star schema](https://docs.microsoft.com/en-us/learn/modules/design-multidimensional-schema-to-optimize-analytical-workloads/2-design-star-schema)
 
-### Designing tables in Azure Synapse Analytics
+#### Designing tables in Azure Synapse Analytics
 
 * [Designing tables - Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-overview)
 
@@ -232,7 +232,7 @@
 ----
 ## Engenharia de Dados com Azure - Downloads
 
-## Complete download list:
+### Complete download list:
 * [Download Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
