@@ -35,7 +35,7 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 
 * [WideWorldImporters: Data Dictionary](https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/home.html)
 
-* [SQL DB Samples:](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
+* [SQL DB Samples](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure?view=sql-server-ver15#azure-sql-database)
 
 ----
 
@@ -51,7 +51,7 @@ engenharia-de-dados-com-microsoft-azure @howbootcamp
 
 * [Source transformation in mapping data flow](https://docs.microsoft.com/en-us/azure/data-factory/data-flow-source)
 
-* [Extra: Apache Parquet](https://parquet.apache.org/)
+* [Parquet Format](https://parquet.apache.org/)
 
 
 ## Engenharia de Dados com Azure - Aula 3
