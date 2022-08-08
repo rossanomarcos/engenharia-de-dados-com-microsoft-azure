@@ -255,7 +255,7 @@ https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studi
 * What is Apache Spark?
 https://docs.microsoft.com/en-us/dotnet/spark/what-is-spark
 
-* Extra: spark.apache.org/
+* Spark.Apache.org
 https://spark.apache.org/
 
 * Analyze with Apache Spark
