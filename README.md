@@ -141,6 +141,21 @@
 * [Extra: The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
 
 ----
+## Engenharia de Dados com Azure - Architecture Reference
+### Lista:
+* [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
+* [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
+* [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
+
+----
+## Engenharia de Dados com Azure - Azure DevOps CI CD Implementation
+### Lista:
+* [Data Factory - Sample pre- and post-deployment script](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
+* [Github.com - Azure-DataFactory / SamplesV2 / ContinuousIntegrationAndDelivery /](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
+* [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
+
+
+----
 ## Engenharia de Dados com Azure - Downloads
 
 ### Complete download list:
