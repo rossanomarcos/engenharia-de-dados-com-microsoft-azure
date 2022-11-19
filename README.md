@@ -150,7 +150,7 @@
 * [WideWorldImportersDW Installation and configuration](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure)
 
 ----
-## Engenharia de Dados com Azure - Additional Material (next Course Season 2023)
+## Engenharia de Dados com Azure - Additional Material (Course Season 2023)
 
 ### Azure Architecture Reference
 * [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
