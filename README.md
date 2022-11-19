@@ -141,21 +141,6 @@
 * [Extra: The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
 
 ----
-## Engenharia de Dados com Azure - Architecture Reference
-### Lista:
-* [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
-* [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
-* [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
-
-----
-## Engenharia de Dados com Azure - Azure DevOps CI CD
-### Lista:
-* [Data Factory - Sample pre- and post-deployment script](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
-* [Github.com - Azure-DataFactory / SamplesV2 / ContinuousIntegrationAndDelivery /](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
-* [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
-
-
-----
 ## Engenharia de Dados com Azure - Downloads
 
 ### Complete download list:
@@ -163,3 +148,17 @@
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 * [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 * [WideWorldImportersDW Installation and configuration](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure)
+
+----
+## Engenharia de Dados com Azure - NEXT STEPs
+
+### Azure Architecture Reference
+* [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
+* [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
+* [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
+
+### Azure DevOps CI CD
+* [Data Factory - Sample pre- and post-deployment script](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
+* [Github.com - Azure-DataFactory / SamplesV2 / ContinuousIntegrationAndDelivery /](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
+* [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
+
