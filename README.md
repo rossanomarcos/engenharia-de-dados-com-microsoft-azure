@@ -148,7 +148,7 @@
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
 ----
-## Engenharia de Dados com Azure - Azure DevOps CI CD Implementation
+## Engenharia de Dados com Azure - Azure DevOps CI CD
 ### Lista:
 * [Data Factory - Sample pre- and post-deployment script](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
 * [Github.com - Azure-DataFactory / SamplesV2 / ContinuousIntegrationAndDelivery /](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
