@@ -158,6 +158,9 @@
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
 ### Azure DevOps CI CD Pipelines
+* [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
+* [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
+
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
 * [Data Factory - Sample pre- and post-deployment script](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
 * [Github.com - Azure-DataFactory / SamplesV2 / ContinuousIntegrationAndDelivery /](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
