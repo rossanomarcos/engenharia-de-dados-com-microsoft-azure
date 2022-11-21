@@ -170,6 +170,8 @@
 * [Op2 - Automated Deployment Documentation](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
 * [Op3 - CI/CD using adftools from SQLPlayer](https://sqlplayer.net/adftools/)
 
+* [CI/CD for serverless SQL pools using Azure DevOps](https://www.kevinrchant.com/2021/10/27/ci-cd-for-serverless-sql-pools-using-azure-devops/)
+* [Azure Synapse Serverless SQL Pool Database Project using GitHub Actions](https://github.com/kevchant/GitHub-SynapseServerlessSQLPool)
 
 
 
