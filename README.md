@@ -163,6 +163,8 @@
 * [Azure DevOps parallel pipelines request form](https://aka.ms/azpipelines-parallelism-request)
 
 #### Extra materials
+* [] (https://learn.microsoft.com/en-us/azure/data-factory/source-control#already-connected-to-github-using-a-personal-account)
+* [] (https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery)
 * [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
 * [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
