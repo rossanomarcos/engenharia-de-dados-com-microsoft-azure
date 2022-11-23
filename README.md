@@ -157,7 +157,7 @@
 * [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
-### Azure DevOps CI CD Pipelines (Curso)
+### Azure DevOps CI CD Pipelines (Curso previsão - início 2023)
 * [portal.azure.com](https://portal.azure.com/)
 * [dev.azure.com](https://dev.azure.com/)
 * [Azure DevOps parallel pipelines request form](https://aka.ms/azpipelines-parallelism-request)
@@ -165,19 +165,14 @@
 #### Extra materials
 * [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
 * [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
-
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
 * [Parallel pipelines request](https://aka.ms/azpipelines-parallelism-request)
-
 * [Set up automated testing for Azure Data Factory](https://richardswinbank.net/adf/set_up_automated_testing_for_azure_data_factory)
 * [Op1 - Pre and Post Deployment PowerShell scripts](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
 * [Data Factory - Sample pre- and post-deployment script](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
 * [Op2 - Automated Deployment Documentation](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
 * [Op3 - CI/CD using adftools from SQLPlayer](https://sqlplayer.net/adftools/)
-
 * [CI/CD for serverless SQL pools using Azure DevOps](https://www.kevinrchant.com/2021/10/27/ci-cd-for-serverless-sql-pools-using-azure-devops/)
 * [Azure Synapse Serverless SQL Pool Database Project using GitHub Actions](https://github.com/kevchant/GitHub-SynapseServerlessSQLPool)
-
-
 
 
