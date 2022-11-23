@@ -157,7 +157,12 @@
 * [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
-### Azure DevOps CI CD Pipelines
+### Azure DevOps CI CD Pipelines (Curso)
+* [portal.azure.com](https://portal.azure.com/)
+* [dev.azure.com](https://dev.azure.com/)
+* [Azure DevOps parallel pipelines request form](https://aka.ms/azpipelines-parallelism-request)
+
+#### Extra materials
 * [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
 * [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
 
