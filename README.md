@@ -158,15 +158,18 @@
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
 ### Azure DevOps CI CD Pipelines (Curso previsão - início 2023)
+#### Setup
 * [portal.azure.com](https://portal.azure.com/)
 * [dev.azure.com](https://dev.azure.com/)
 * [Azure DevOps parallel pipelines request form](https://aka.ms/azpipelines-parallelism-request)
+#### Pre-Post scripts configuration
+* [1](https://learn.microsoft.com/en-us/azure/data-factory/source-control#already-connected-to-github-using-a-personal-account)
+* [2](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery)
+* [3](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery#best-practices-for-cicd)
 
-#### Extra materials
-* [](https://learn.microsoft.com/en-us/azure/data-factory/source-control#already-connected-to-github-using-a-personal-account)
-* [](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery)
-* [](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery#best-practices-for-cicd)
+#### Extra materials 1
 
+#### Extra materials 2
 * [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
 * [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
