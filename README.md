@@ -165,6 +165,8 @@
 
 #### Pre-Post scripts configuration - Opt 1
 * [Pre and Post Deployment PowerShell scripts](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
+* [Git - Pre and Post Deployment PowerShell scripts](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
+
 
 #### Pre-Post scripts configuration - Opt 2
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
