@@ -167,9 +167,8 @@
 * [Pre and Post Deployment PowerShell scripts](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
 * [Git - Pre and Post Deployment PowerShell scripts](https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/ContinuousIntegrationAndDelivery)
 
-#### Pre-Post scripts configuration - Opt 2
+#### Automated Build ARM Template - Opt 2
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
-* [Op2 - Automated Deployment Documentation](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
 
 #### (X) How-To extra materials (1)
 * [test Layer - Set up automated testing for Azure Data Factory](https://richardswinbank.net/adf/set_up_automated_testing_for_azure_data_factory)
