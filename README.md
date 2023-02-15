@@ -148,7 +148,7 @@
 * [Download and install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 * [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 * [WideWorldImportersDW Installation and configuration](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-dw-install-configure)
-
+* [Install Azure CLI on Windows](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 ----
 ## Engenharia de Dados com Azure - Additional Material (Course Season 2023)
 
