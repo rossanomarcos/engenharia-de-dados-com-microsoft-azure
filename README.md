@@ -65,8 +65,8 @@
 
 ### Cost Management on Azure
 * [Data Pipeline pricing](https://azure.microsoft.com/en-us/pricing/details/data-factory/data-pipeline/)
+* [Azure Databricks Pricing calculator](https://azure.microsoft.com/en-us/pricing/details/databricks/)
 * [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
-* [Azure Pricing Databricks calculator](https://azure.microsoft.com/en-us/pricing/details/databricks/)
 * [Reduce service costs by using Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations)
 * [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 * [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
