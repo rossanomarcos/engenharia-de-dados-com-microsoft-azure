@@ -182,7 +182,7 @@
 #### Azure Data Factory / CI CD extra materials
 * [Source control in Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/source-control#already-connected-to-github-using-a-personal-account)
 * [Continuous integration and delivery in Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery)
-* [3](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery#best-practices-for-cicd)
+* [Best practices for CI/CD](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery#best-practices-for-cicd)
 
 #### (Azure DevOps Extras) Extra materials 2
 * [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
