@@ -6,7 +6,7 @@
 ----
 ## Engenharia de Dados com Azure - Aula 0
 
-* [Microsoft Lean & Training](https://learn.microsoft.com/en-us/training/)
+* [Microsoft Lean & Training](https://learn.microsoft.com/en-us/)
 * [Azure Free Credit](https://azure.microsoft.com/en-us/free/)
 * [Azure Portal](https://portal.azure.com/)
 * [Azure Documentation](https://docs.microsoft.com/en-us/documentation/)
