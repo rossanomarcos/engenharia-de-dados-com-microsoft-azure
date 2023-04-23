@@ -160,7 +160,7 @@
 * [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 * [Best practives for implementing Azure Data Factory](https://mrpaulandrew.com/2019/12/18/best-practices-for-implementing-azure-data-factory/)
 
-### Azure Architecture Reference - Solution described
+### Azure Architecture Reference - Solution selected
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 * [Analytics end-to-end with Azure Synapse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal)
 * [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
