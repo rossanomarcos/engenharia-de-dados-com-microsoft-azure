@@ -11,6 +11,10 @@
 * [Azure Portal](https://portal.azure.com/)
 * [Azure Documentation](https://docs.microsoft.com/en-us/documentation/)
 
+## Recommended Microsoft self-training
+
+* [AZ-305 Microsoft Azure Architect Design](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-architect-design-prerequisites/)
+
 ## Engenharia de Dados com Azure - Aula 1
 * [Modern analytics architecture with Azure Databricks](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 * [What is a resource?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management)
