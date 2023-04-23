@@ -9,6 +9,7 @@
 * [Azure Free Credit](https://azure.microsoft.com/en-us/free/)
 * [Azure Portal](https://portal.azure.com/)
 * [Azure Documentation](https://docs.microsoft.com/en-us/documentation/)
+* [Microsoft Lean](https://learn.microsoft.com/en-us/)
 * [Modern analytics architecture with Azure Databricks](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 * [What is a resource?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management)
 * [Storage account overview](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json)
