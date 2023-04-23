@@ -159,11 +159,11 @@
 ### Azure Architecture Reference
 * [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 * [BEST PRACTICES FOR IMPLEMENTING AZURE DATA FACTORY](https://mrpaulandrew.com/2019/12/18/best-practices-for-implementing-azure-data-factory/)
-* [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
 
 ### Azure Architecture Reference - Roadmap
 * [Modern analytics architecture with Azure Databricks](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 * [Analytics end-to-end with Azure Synapse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal)
+* [DataOps for the modern data warehouse](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw?source=recommendations)
 
 
 ### Azure DevOps CI CD Pipelines (Curso previsão - início 2023)
