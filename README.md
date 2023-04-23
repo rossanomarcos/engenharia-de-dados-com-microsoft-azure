@@ -174,19 +174,17 @@
 #### Automated Build ARM Template - Opt 2
 * [Automated publishing for continuous integration and delivery](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements)
 
-#### (CI CD) How-To extra materials (1)
+#### How-To CI CD Extra materials
 * [test Layer - Set up automated testing for Azure Data Factory](https://richardswinbank.net/adf/set_up_automated_testing_for_azure_data_factory)
 * [CI/CD for serverless SQL pools using Azure DevOps](https://www.kevinrchant.com/2021/10/27/ci-cd-for-serverless-sql-pools-using-azure-devops/)
 * [Azure Synapse Serverless SQL Pool Database Project using GitHub Actions](https://github.com/kevchant/GitHub-SynapseServerlessSQLPool)
 * [CI/CD using adftools from SQLPlayer](https://sqlplayer.net/adftools/)
-
-#### Azure Data Factory / CI CD extra materials
 * [Source control in Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/source-control#already-connected-to-github-using-a-personal-account)
 * [Continuous integration and delivery in Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery)
 * [Best practices for CI/CD](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery#best-practices-for-cicd)
 
-#### (Azure DevOps Extras) Extra materials 2
-* [Azure DevOps product](https://azure.microsoft.com/en-us/products/devops/)
+#### Azure DevOps Products & Official Hands-on Labs
+* [Azure DevOps Product](https://azure.microsoft.com/en-us/products/devops/)
 * [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
 
 
