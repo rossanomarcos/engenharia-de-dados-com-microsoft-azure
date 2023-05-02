@@ -215,23 +215,20 @@
 
 ### Azure - Security - Synapse Analytics Dedicated pool
 * [Secure a dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-manage-security)
-
 * [Data Discovery & Classification](https://learn.microsoft.com/en-us/azure/azure-sql/database/data-discovery-and-classification-overview?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&view=azuresql)
-
 * [Row-Level Security](https://learn.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-ver16&ns-enrollment-id=7eob60wdonn8k&viewFallbackFrom=sql-server-ver16%3Fns-enrollment-type%3DCollection)
 
-### Azure - Security - Databricks 
+### Azure - Security - Databricks
 * [Databricks - Security best pratices](https://learn.microsoft.com/en-us/azure/databricks/security/)
 
-### Azure - Security - Data factory:
+### Azure - Security - Data Factory
 * [Security considerations for data movement in Azure Data Factory]( https://learn.microsoft.com/en-us/azure/data-factory/data-movement-security-considerations?ns-enrollment-type=Collection&ns-enrollment-id=q5majpk56myko)
 
-### Azure - Security - Extra material 
+### Azure - Security - extra materials
 * [Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
 * [Find recommendations that can improve your security posture](https://learn.microsoft.com/en-us/azure/defender-for-cloud/review-security-recommendations)
 
 ### Azure - Security - ETL
 * [Data loading strategies for dedicated SQL pool in Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading)
-
 * [Best practices for loading data into a dedicated SQL pool in Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-loading-best-practices)
 
