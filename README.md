@@ -196,4 +196,42 @@
 * [Azure DevOps Product](https://azure.microsoft.com/en-us/products/devops/)
 * [Azure DevOps Labs Hands-on](https://azuredevopslabs.com/)
 
+----
+## Engenharia de Dados com Azure - Security & Privacy
+
+### Playbook Guide for Azure Secutiry
+* [Playbook for addressing common security requirements with Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/security-best-practice?ns-enrollment-type=Collection&ns-enrollment-id=q5majpk56myko&view=azuresql)
+
+### Azure - Security - ADLS2
+* [Security in Azure Data Lake Storage](https://learn.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)
+* [Accessing diagnostic logs for Azure Data Lake Storage Gen1](https://learn.microsoft.com/en-us/azure/data-lake-store/data-lake-store-diagnostic-logs)
+
+### Azure - Security - SQL DB
+* [Azure SQL Database security documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/security-overview?view=azuresql)
+* [Authorize database access to SQL Database, SQL Managed Instance, and Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/azure-sql/database/logins-create-manage?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&view=azuresql)
+* [Security for SQL Server Database Engine and Azure SQL Database](https://learn.microsoft.com/en-us/sql/relational-databases/security/security-center-for-sql-server-database-engine-and-azure-sql-database?view=sql-server-ver16)
+* [Auditing for Azure SQL Database and Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/azure-sql/database/auditing-overview?view=azuresql)
+* [Dynamic data masking](https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview?view=azuresql)
+
+### Azure - Security - Synapse Analytics Dedicated pool
+* [Secure a dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-manage-security)
+
+* [Data Discovery & Classification](https://learn.microsoft.com/en-us/azure/azure-sql/database/data-discovery-and-classification-overview?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&view=azuresql)
+
+* [Row-Level Security](https://learn.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-ver16&ns-enrollment-id=7eob60wdonn8k&viewFallbackFrom=sql-server-ver16%3Fns-enrollment-type%3DCollection)
+
+### Azure - Security - Databricks 
+* [Databricks - Security best pratices](https://learn.microsoft.com/en-us/azure/databricks/security/)
+
+### Azure - Security - Data factory:
+* [Security considerations for data movement in Azure Data Factory]( https://learn.microsoft.com/en-us/azure/data-factory/data-movement-security-considerations?ns-enrollment-type=Collection&ns-enrollment-id=q5majpk56myko)
+
+### Azure - Security - Extra material 
+* [Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
+* [Find recommendations that can improve your security posture](https://learn.microsoft.com/en-us/azure/defender-for-cloud/review-security-recommendations)
+
+### Azure - Security - ETL
+* [Data loading strategies for dedicated SQL pool in Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading)
+
+* [Best practices for loading data into a dedicated SQL pool in Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-loading-best-practices)
 
