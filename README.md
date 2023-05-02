@@ -218,7 +218,7 @@
 * [Data Discovery & Classification](https://learn.microsoft.com/en-us/azure/azure-sql/database/data-discovery-and-classification-overview?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&view=azuresql)
 * [Row-Level Security](https://learn.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-ver16&ns-enrollment-id=7eob60wdonn8k&viewFallbackFrom=sql-server-ver16%3Fns-enrollment-type%3DCollection)
 
-### Azure - Security - Databricks
+### Azure - Databricks - Security guide
 * [Databricks - Security best pratices](https://learn.microsoft.com/en-us/azure/databricks/security/)
 
 ### Azure - Security - Data Factory
