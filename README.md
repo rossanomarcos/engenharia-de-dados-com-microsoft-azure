@@ -162,6 +162,7 @@
 
 ### Azure Architecture Reference & Best Practices
 * [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
+* [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
 * [Best practives for implementing Azure Data Factory](https://mrpaulandrew.com/2019/12/18/best-practices-for-implementing-azure-data-factory/)
 
 ### Azure Architecture Reference - Solution selected
